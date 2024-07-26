@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swipe</string>
+    <string-array name="country_names">
+        <item>Maroc</item>
+        <item>États-Unis</item>
+        <item>Canada</item>
+        <item>Royaume-Uni</item>
+    </string-array>
+</resources>
